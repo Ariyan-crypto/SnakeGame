@@ -12,12 +12,12 @@ A simple and interactive Snake game built with JavaScript, HTML, and CSS. The go
 - **JavaScript**: Handles the game logic, controls, and collision detection.
 - **HTML**: Provides the structure for the game interface.
 - **CSS**: Styles the game, creating a visually appealing and responsive layout.
-
-##How to Play
-1.Clone or download the repository.
-2.Open the index.html file in a web browser.
-3.Use the arrow keys to control the snake.
-4.Eat food to grow the snake and increase your score.
-5.Avoid running into the walls or your own tail!
+  
+## How to Play
+- Clone or download the repository.
+- Open the `index.html` file in a web browser.
+- Use the arrow keys to control the snake.
+- Eat food to grow the snake and increase your score.
+- Avoid running into the walls or your own tail!
 Feel free to fork this repository, contribute, or make it your own. Enjoy playing!
 
