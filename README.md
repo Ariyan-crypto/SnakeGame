@@ -19,5 +19,6 @@ A simple and interactive Snake game built with JavaScript, HTML, and CSS. The go
 - Use the arrow keys to control the snake.
 - Eat food to grow the snake and increase your score.
 - Avoid running into the walls or your own tail!
+
 Feel free to fork this repository, contribute, or make it your own. Enjoy playing!
 
